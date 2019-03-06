@@ -1,4 +1,4 @@
-The tool is a simple graphinal (GUI) HTTP/HTTPS client, testing and troubleshooting tool for HTTP REST API's. 
+The HTTP tester tool is a simple graphinal (GUI) HTTP/HTTPS client, testing and troubleshooting tool for HTTP REST API's. 
 The software tool is free and open source
 
 Features
